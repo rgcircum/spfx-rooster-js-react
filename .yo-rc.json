@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.1",
+    "libraryName": "spfx-rooster-js-react",
+    "libraryId": "7448cbbf-ab8e-43c5-89a1-d1e828c50b32",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-rooster-js-react",
+    "solutionShortDescription": "spfx-rooster-js-react description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

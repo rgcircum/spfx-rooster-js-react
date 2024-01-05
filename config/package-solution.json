@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-rooster-js-react-client-side-solution",
+    "id": "7448cbbf-ab8e-43c5-89a1-d1e828c50b32",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-rooster-js-react description"
+      },
+      "longDescription": {
+        "default": "spfx-rooster-js-react description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-rooster-js-react Feature",
+        "description": "The feature that activates elements of the spfx-rooster-js-react solution.",
+        "id": "0c44a0e6-5266-4a65-affe-b9e924220b67",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-rooster-js-react.sppkg"
+  }
+}
